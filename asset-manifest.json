@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/youtube-clone-demo/static/js/main.bec6b165.chunk.js",
+    "main.js.map": "/youtube-clone-demo/static/js/main.bec6b165.chunk.js.map",
+    "runtime-main.js": "/youtube-clone-demo/static/js/runtime-main.0b22bdcf.js",
+    "runtime-main.js.map": "/youtube-clone-demo/static/js/runtime-main.0b22bdcf.js.map",
+    "static/js/2.1fa11446.chunk.js": "/youtube-clone-demo/static/js/2.1fa11446.chunk.js",
+    "static/js/2.1fa11446.chunk.js.map": "/youtube-clone-demo/static/js/2.1fa11446.chunk.js.map",
+    "index.html": "/youtube-clone-demo/index.html",
+    "precache-manifest.91fa503e688cec519f37e07ea32e4355.js": "/youtube-clone-demo/precache-manifest.91fa503e688cec519f37e07ea32e4355.js",
+    "service-worker.js": "/youtube-clone-demo/service-worker.js",
+    "static/js/2.1fa11446.chunk.js.LICENSE.txt": "/youtube-clone-demo/static/js/2.1fa11446.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b22bdcf.js",
+    "static/js/2.1fa11446.chunk.js",
+    "static/js/main.bec6b165.chunk.js"
+  ]
+}
